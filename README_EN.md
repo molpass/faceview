@@ -3,15 +3,11 @@
 
 **Ancient wisdom of physiognomy, reflecting millennia of insight**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
-
-**Language**：[English](README_EN.md) | [简体中文](README.md)
+**Language**: [English](README_EN.md) | [한국어](README.md)
 
 An image analysis skill based on traditional Chinese physiognomy, supporting four major categories: facial reading (Mianxiang), palmistry (Shouxiang), bone structure reading (Guxiang), and body physiognomy (Tixiang).
 
-⚠️ **This analysis is for cultural reference and entertainment only. Modern science has not reached a consensus on the predictive ability of physiognomy.**
+**This analysis is for cultural reference and entertainment only. Modern science has not reached a consensus on the predictive ability of physiognomy.**
 
 [Features](#features) · [Examples](#examples) · [Knowledge Sources](#knowledge-sources) · [Important Notes](#important-notes)
 
@@ -107,9 +103,9 @@ User ❯ How is my recent fortune?
 Kanxiang Skill ❯ ## Fortune Analysis
 
 ### Recent Fortune (Next 1-2 Years)
-- **Career**: ⭐⭐⭐⭐ Steady rise, helpful people
-- **Wealth**: ⭐⭐⭐ Stable regular income, average windfall luck
-- **Relationship**: ⭐⭐⭐⭐ Strong romantic luck, likely to find true love
+- **Career**: (4/5) Steady rise, helpful people
+- **Wealth**: (3/5) Stable regular income, average windfall luck
+- **Relationship**: (4/5) Strong romantic luck, likely to find true love
 
 ### Notes
 - Second half of this year (July-September): Pay attention to communication, avoid misunderstandings
@@ -259,21 +255,21 @@ kanxiang/
 
 ## Important Notes
 
-### ⚠️ Important Reminders
+### Important Reminders
 
 - **This analysis is for cultural reference and entertainment only**: Physiognomy is traditional culture; modern science has not confirmed its predictive ability
 - **Please view rationally**: Life path depends primarily on personal effort and choices
 - **No absolute assertions**: All analyses are probabilistic references, not absolute destiny
 - **Health notes are for reference only**: Consult professional doctors for health issues
 
-### 📋 Usage Limitations
+### Usage Limitations
 
 - No prediction of specific events (e.g., "when will I get married", "when will I get rich")
 - No politically sensitive topics
 - No promotion of superstition
 - Each analysis report includes a disclaimer at the end
 
-### 📷 Photo Requirements
+### Photo Requirements
 
 - **Clarity**: Photos should be clear and visible, avoid blur or obstruction
 - **Lighting**: Avoid overly dim lighting or direct strong light
@@ -291,7 +287,7 @@ kanxiang/
 **A**: Supports human body part photos, including face, palm, full body, etc. Photos should be clear and visible, avoiding blur, obstruction, overly dim lighting, etc.
 
 ### Q: How long does analysis take?
-**A**: Typically completed within a few seconds to十几 seconds.
+**A**: Typically completed within a few seconds to a dozen seconds.
 
 ### Q: Can I upload photos for analysis multiple times?
 **A**: Yes. Each analysis is independent, and you can upload different photos for analysis multiple times.
